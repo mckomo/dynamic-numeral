@@ -18,7 +18,7 @@
     ],
     "target": "es5",
     "module": "commonjs",
-    "outDir": "build",
+    "outDir": "dist",
     "skipLibCheck": true,
     "moduleResolution": "node",
     "sourceMap": true,

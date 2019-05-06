@@ -1,5 +1,5 @@
 import { assert } from "chai";
-import { DynamicFormat } from "../src/DynamicFormat";
+import { DynamicFormat } from "../src";
 
 describe("DynamicFormat", function() {
   it("is serializable", () => {

@@ -1,6 +1,6 @@
 import * as numeral from "numeral";
 import { assert } from "chai";
-import { registerDynamicFormat } from "../src/registration";
+import { registerDynamicFormat } from "../src";
 
 registerDynamicFormat();
 

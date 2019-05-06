@@ -13,10 +13,10 @@
     "email": "mckomo+npm@gmail.com"
   },
   "license": "MIT",
-  "main": "build/index.js",
+  "main": "dist/index.js",
   "files": [
     "register-format.js",
-    "build"
+    "dist"
   ],
   "scripts": {
     "bump": "standard-version",

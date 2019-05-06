@@ -1,7 +1,7 @@
 import * as numeral from "numeral";
 import { DynamicFormat } from "./DynamicFormat";
 
-const memoize =  require("lodash/memoize");
+const memoize =  require("lodash.memoize");
 
 // Usage of '0' makes dynamic format be the first to consider when 'Numeral.format' is called
 export const DYNAMIC_FORMAT_IDENTIFIER = "0";
