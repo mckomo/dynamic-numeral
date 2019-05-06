@@ -1,3 +1,1 @@
-const { registerDynamicFormat } = require("./dist/registration");
-
-registerDynamicFormat();
+require("./dist/registration").registerDynamicFormat();
