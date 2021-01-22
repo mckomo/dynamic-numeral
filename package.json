@@ -1,6 +1,6 @@
 {
   "name": "dynamic-numeral",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Dynamic formats for Numeral.js",
   "keywords": [
     "numeral",
